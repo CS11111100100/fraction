@@ -12,6 +12,7 @@ class Fraction
   //Copy Constructor
   Fraction(const Fraction & source);
 
+  //not seeing any changes yet...
   //post m_N and m_D have user data and m_D != 0
   void readin();
   void print() const;
